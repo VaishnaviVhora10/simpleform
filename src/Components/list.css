@@ -1,0 +1,23 @@
+.list_main{
+    width: 40%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 900;
+    background-color: rgb(81, 79, 79);
+    box-shadow: 0 10px 20px rgb(0 0 0 / 0.2);
+    border-radius: 5px;
+}
+
+.list{
+    width: 50%;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 20px;
+}
